@@ -1,0 +1,2 @@
+# The-Stock-Sage
+ "The Stock Sage" is an innovative financial advisory tool that combines cutting-edge sentiment analysis and trend forecasting to empower investors with data-driven insights. It uses a user-friendly interface to provide the portfolio insights in the form of a dashboard and also analyzes news headlines and market trends to provide personalized recommendations on whether to hold or sell stocks.
