@@ -75,7 +75,7 @@ Forgot password section
 
 Profile page
 
-![profile jpeg](https://github.com/user-attachments/assets/79d0d0df-a865-4950-85c8-9d8470003033)
+![Screenshot 2024-09-20 101209](https://github.com/user-attachments/assets/6abe4861-c7dc-4820-a3db-b53930744af2)
 
 
 Add Transaction page
